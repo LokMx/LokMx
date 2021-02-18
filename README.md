@@ -4,7 +4,7 @@
 - 🚀 I'm A Software Developer
 - 🌱 I Have Been Working Professionally In The Field Of Programming For 4 Years
 - ⚡ EvreyDay Is A Second Chance
-- 🔥 2113
+- 🔥 0009
 
 
 ### Contact me:
@@ -33,6 +33,6 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokMx&layout=compact&theme=radical)
 
     
-[github]: https://github.com/matmaz1382
-[Instagram]: https://www.instagram.com/mat_.xp/
+[github]: https://github.com/LokMx
+[Instagram]: https://www.instagram.com/TheLokMx/
 [discord]: https://discord.gg/22ArRhw8JQ
