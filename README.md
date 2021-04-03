@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm LokMx
+## I'm ADRIAN
 - 🚀 I'm A Software Developer
 - 🌱 I Have Been Working Professionally In The Field Of Programming For 4 Years
 - ⚡ EvreyDay Is A Second Chance
@@ -9,9 +9,9 @@
 
 ### Contact me:
 
-[<img align="left" alt="Lok | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Lok | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Lok | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="ADRIAN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ADRIAN | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="ADRIAN | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
 
@@ -33,6 +33,6 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokMx&layout=compact&theme=radical)
 
     
-[github]: https://github.com/LokMx
-[Instagram]: https://www.instagram.com/TheLokMx/
-[discord]: https://discord.gg/22ArRhw8JQ
+[github]: https://github.com/Real-Adrian
+[Instagram]: https://www.instagram.com/Real-Adrian7/
+[discord]: https://discord.gg/yCcdKGxP62
